@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/SelNew/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/auto-service-annotations-1.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/byte-buddy-1.14.18.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/byte-buddy-1.14.18-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/checker-qual-3.42.0.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/checker-qual-3.42.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/commons-exec-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/commons-exec-1.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/error_prone_annotations-2.27.0.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/error_prone_annotations-2.27.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/failsafe-3.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/failsafe-3.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/failureaccess-1.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/failureaccess-1.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/guava-33.2.1-jre.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/guava-33.2.1-jre-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/j2objc-annotations-3.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/j2objc-annotations-3.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/jsr305-3.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/opentelemetry-api-1.40.0.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/opentelemetry-api-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/opentelemetry-api-incubator-1.40.0-alpha.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/opentelemetry-api-incubator-1.40.0-alpha-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/opentelemetry-context-1.40.0.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/opentelemetry-context-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/opentelemetry-exporter-logging-1.40.0.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/opentelemetry-exporter-logging-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/opentelemetry-sdk-1.40.0.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/opentelemetry-sdk-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/opentelemetry-sdk-common-1.40.0.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/opentelemetry-sdk-common-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/opentelemetry-sdk-extension-autoconfigure-1.40.0.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/opentelemetry-sdk-extension-autoconfigure-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/opentelemetry-sdk-extension-autoconfigure-spi-1.40.0.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/opentelemetry-sdk-extension-autoconfigure-spi-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/opentelemetry-sdk-logs-1.40.0.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/opentelemetry-sdk-logs-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/opentelemetry-sdk-metrics-1.40.0.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/opentelemetry-sdk-metrics-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/opentelemetry-sdk-trace-1.40.0.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/opentelemetry-sdk-trace-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/opentelemetry-semconv-1.25.0-alpha.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/opentelemetry-semconv-1.25.0-alpha-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-api-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-api-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-chrome-driver-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-chrome-driver-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-chromium-driver-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-chromium-driver-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-devtools-v85-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-devtools-v85-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-devtools-v125-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-devtools-v125-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-devtools-v126-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-devtools-v126-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-devtools-v127-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-devtools-v127-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-edge-driver-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-edge-driver-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-firefox-driver-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-firefox-driver-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-http-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-http-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-ie-driver-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-ie-driver-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-java-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-java-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-json-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-json-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-manager-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-manager-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-os-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-os-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-remote-driver-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-remote-driver-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-safari-driver-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-safari-driver-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-support-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/SelNew/selenium-support-4.23.1-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
