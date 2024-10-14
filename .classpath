@@ -118,5 +118,14 @@
 	<classpathentry kind="lib" path="D:/SelNew/selenium-safari-driver-4.23.1-sources.jar"/>
 	<classpathentry kind="lib" path="D:/SelNew/selenium-support-4.23.1.jar"/>
 	<classpathentry kind="lib" path="D:/SelNew/selenium-support-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hp/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.aventstack"/>
+			<attribute name="maven.artifactId" value="extentreports"/>
+			<attribute name="maven.version" value="5.0.9"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
